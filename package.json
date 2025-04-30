@@ -1,0 +1,8 @@
+{
+  "name": "snake1",
+  "version": "1.0.0",
+  "description": "Classic Snake game for mobile browsers with score and restart, HTML/CSS/JS.",
+  "main": "index.html",
+  "author": "Sandeep Reddy",
+  "license": "MIT"
+}
